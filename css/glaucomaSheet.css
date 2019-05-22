@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document*/
+element.style{}
+* {
+  margin: 0; padding: 0;
+}
+.html[Attributes Style] {
+  direction: ltr; unicode-bidi: embed; -webkit-locale: 'en';
+}
+html {
+  display: block;
+}
+.body {
+  background: url(../images/body-bg.jpg) repeat left top; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 17px; color: #6e6e6e;
+}
+.wrapp {
+  width: 1420px; position: relative; margin: 0 auto;
+}
+* {
+  margin: 0; padding: 0;
+}
+.user agent stylesheetdiv {
+  display: block;
+}
+.main-width {
+  width: 980px; margin: 0 auto; text-align: left;
+}
+div {
+  display: block;
+}
+#header {
+}
+* {
+  margin: 0; padding: 0;
+}

@@ -1,0 +1,52 @@
+
+
+body{width:100%; height:auto; padding:0 ;margin:0; font-size:18px; font-family:Tahoma, Geneva, sans-serif; background:url(../images/grass%20image.jpg)repeat;}
+
+.mainDiv{ width:900px; margin:auto; height:auto;}
+
+
+.logoContainer{float:left; text-align: left; margin-bottom:20px; padding-top:5px; width:100%; color:#fff; font-size:24px; font-family:Tahoma, Geneva, sans-serif;}
+
+.navigationContainer{float:left; text-align: left;   width:100%; height:40px;  color:#FFF; background:#FFF;opacity:0.8; filter:Alpha(opacity=80)}
+
+ul.tahseen{color:#CCC; padding:0; margin:0;width:100%; height:auto;}
+
+ul.tahseen li{color:#FFF; border-right:1px solid grey; float:left; list-style:none; padding:0px; margin:0;}
+
+ul.tahseen li a{color:#000;    float:left; list-style:none; padding:9px;}
+
+ul.tahseen li a:hover{background:#CCC;color:#060; text-decoration:none; padding:9px;}
+
+.aboutUsContainer{float:left; width:100%; height:auto;background:#063;   margin-top: 20px;opacity:0.8; filter:Alpha(opacity=80);border-radius: 5px 5px 5px 5px; border:1px solid #fff; box-shadow: 10px 5px ; color:#000;  }
+
+.aboutUsWrap{ float: left; width:100%; height:auto; padding:30px;}
+
+.mainTitle{text-align:left; color:#fff; font-size:18px; font-style:normal; font:Arial, Helvetica, sans-serif;float:left; width:100%; padding:0px 0px 20px 0px;  }
+
+
+
+.dscription{ text-align:left; text-decoration:none;  float:left; font:Arial, Helvetica, sans-serif; color:#fff; width:100%;}
+/*
+.leftLogoContainer{text-align:left; padding-top:20px; border-right-color:#9F6; border-right-style:dashed; width: 2px;}*/
+
+.mainBodyContent{width:100%;height:auto; background:#fff; border-top:1px solid white; float:left;margin-top:20px;}
+
+.leftSideBarContent{text-align:left; float:left; width:200px; padding:30px 10px 10px 10px; background-color:#066; height:500px; }
+
+ul.sideBar{color:#CCC;text-decoration:none; padding:5px; border-collapse::2px solid black;  }
+ul.sideBar li{color:#FFF; text-align:left; list-style-type:none; text-decoration:none; padding:10px; }
+ul.sideBar li a:hover{border-bottom:1px solid black; text-decoration:none; padding:2px 2px 2px 2px;}
+
+.rightSideBarContent{text-align:left; background-color:#fff;width: 680px; height:auto; float:left; }
+
+.rightPanelContent{float: left; width:100%; height:auto;  padding: 30px;}
+
+.innerBodyLabel{color:#000; float:left; font-size:18px;  border-bottom:2px solid #CCC; padding:20px;   padding: 20px 0px 10px 0px;
+  width: 90%;}
+
+.rightDescriptionContent{float: left;
+  color: #000;
+    line-height: 1.8;
+  width: 90%;
+  font-size:14px;
+  margin-top: 20px;}

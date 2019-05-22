@@ -1,0 +1,49 @@
+<p>@{<br>
+  var imagePath="";<br>
+  if(Request["Choice"]=!null)<br>
+  { imagePath="images/" + (Request[Choice];}</p>
+<p>}</p>
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><br>
+  <html xmlns="http://www.w3.org/1999/xhtml"><br>
+  <head><br>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><br>
+<title>Trial C Sharp Program</title></p>
+<p></head></p>
+<p><body></p>
+<p><h1>Display Images</h1> <br>
+  <form method="post" action=""> <br>
+  I want to see: <br>
+  <select name="Choice"> <br>
+     <option value="i.jpg">Photo 1</option> <br>
+     <option value="210.jpg">Photo 2</option> <br>
+     <option value="grass image.jpg">Photo 3</option> <br>
+  </select> <br>
+  <input type="submit" value="Submit"> <br>
+  @if(imagePath != "")<br>
+  {<br>
+  <p><br>
+  <img src="@imagePath" alt="Sample"><br>
+  </p><br>
+  }  <br>
+</form></p>
+<p></body></p>
+
+@{
+var imagePath="";
+if(Request["Choice"]=!null)
+{ imagePath="images/" + (Request[Choice];}
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+</body>
+</html>

@@ -1,0 +1,22 @@
+/* CSS Document */
+body{ width:900px; height:auto; padding:0; margin:0 font-size:18px; }
+/*title */
+.title{float:left; width:900px; height:auto; padding:0; margin:0 ;border:2px solid black; background:#FFF;}
+/*raceRegistration*/
+.raceRegistration{padding:2px 0 10px 3px; float:left; text-decoration:none; font-size:24px; font-family:Georgia, "Times New Roman", Times, serif; }
+
+
+
+/*address*/
+.address{text-align:right; padding:10px 0px 0px 50px; height:auto; }
+
+/*formTitleContainer*/
+.formTitleContainer{background:#060; color:#FFF; flaot:left; font-size:18px; margin:2px; border:1px solid grey;height:auto;margin-top:3px; padding:10px 0 5px 5px;  }
+
+/*formDescriptionContent*/
+.formDescriptionContent{ font-size:18px;  padding: 30px 0 30px 5px; margin: 10px 0 10px 20px; float:left; width:320px;}
+
+
+label{ color:#000; padding: 5px; font-family:Arial, Helvetica, sans-serif; float: left; }
+input{ height:30px; float:left; margin:20px 15px 5px 0px; border-radius:2px  3px 3px 2px;   } 
+button{ color:#000; background:#CC9;}

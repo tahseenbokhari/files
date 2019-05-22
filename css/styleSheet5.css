@@ -1,0 +1,14 @@
+/* CSS Document */
+
+body{ width:980px; height:auto; padding:0; margin:0; font-size:18px; font-family:Arial, Helvetica, sans-serif; background-color:#FFF;}
+
+.mainDiv{height:auto; margin:auto; width:980px;}
+
+.topNavigationContainer{ width:980px; font-size:18px; font-family:Arial, Helvetica, sans-serif; background-color:#C9F; float:left; text-align:left; height:40px; color:#000; }
+
+ul.topNavigation{width:980px; height:120px; padding:0; margin:0px; color:#000; background-color:#C9F;}
+
+ul.topNavigation li{float:left; text-decoration:none; font:Arial, Helvetica, sans-serif; font-size:18px; padding:20px; margin:20px 20px 20px 20px; list-style:none;}
+.logoContainer{background-image:url(../images/images%20flower.png); float:right; background-color:#C9F; height:120px; background-repeat:no-repeat;}
+.headerContainer{ background-color:#F9F; color:#000; padding:10px; margin:0px; text-decoration:none; width:960px; height:330px; }
+.footerContainer{color:#96C; font-size:14px; font-family:Arial, Helvetica, sans-serif; float:right; margin-right:20px;}

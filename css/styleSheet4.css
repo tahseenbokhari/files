@@ -1,0 +1,31 @@
+/* CSS Document */
+
+ body{width:100%; margin:0; padding:0; height:auto; font-family:Arial, Helvetica, sans-serif; }
+ 
+ 
+ .mainWrap{width:500px; height:auto; font-family:Arial, Helvetica, sans-serif; margin:auto;  border-radius:5px 5px 0 0; background-color:#333; }
+ 
+ .formTitleContainer{border-bottom:1px solid grey; height:auto; width:100%; text-align:center; color:#FFF; font-family:Arial, Helvetica, sans-serif; font-size:18px; padding:5px 0 5px 0 ;}
+ 
+ .FormFieldsContainer{margin:20px 20px 0px 20px; width:400px; height:auto; }
+ 
+ .inputField{ text-align:left; margin:20px ; height:30px;  border-radius:30px; background-color:#FFF;text-indent:40px;width:100%;padding-left:10px;  }
+  
+  
+  .usernameIcon{ background-position: 5px 5px; background-image:url(../images/user%20name%20icon.png); background-repeat:no-repeat;}
+	 
+  .phoneNumberIcon{background-position: 5px 5px;  background-image:url(../images/phone%20icon.png);  background-repeat: no-repeat; }
+  
+  .emailContainerIcon{background-position: 5px 5px;  background-image:url(../images/email%20icon.png); background-repeat: no-repeat; }
+  
+  .passwordContainerIcon{background-position: 5px 5px;  background-image:url(../images/password%20colored.png);background-repeat: no-repeat; }
+  
+  .statementContainer{text-align:left; font-size:14; font-family:Arial, Helvetica, sans-serif; width:490px;float:left; font-size:14px; padding-left:10px ; background-color:#333; color:#FFF; border-radius:0 0 5px 5px;}
+ 
+  
+  
+  .createAccountButton{background-color:#390; border-radius:30px; width:150px; height:40px; margin:10px 45px 20px 10px ; float:right; color:#FFF;  }
+ 
+  .copyRightContainer{color:#999; background-color:#333; margin-left:10px; float:right;}
+ a{color:#090; font-size:16px; text-decoration:underline;} 
+ label{text-align:center; padding:2px 0 0 5px;}
